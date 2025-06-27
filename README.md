@@ -1,1 +1,3 @@
 # Expense-Tracker-App
+
+The Java Expense Tracker is a command-line and JavaFX-based application that allows users to manage personal finances by recording income and expenses, categorized by type and description. It supports multiple user accounts with secure login and individual data files. Users can view summaries, search by keyword or category, filter by month, export their data to CSV, and visualize expenses using a pie chart. The project is built using Java, file I/O, and JavaFX, making it a practical tool for learning object-oriented programming, file handling, and basic data visualization.
